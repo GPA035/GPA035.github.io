@@ -1,6 +1,6 @@
 var Snake = (function () {
 
-  const INITIAL_TAIL = 99;
+  const INITIAL_TAIL = 1;
   var fixedTail = true;
 
   var intervalID;
