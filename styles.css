@@ -38,6 +38,10 @@ nav a {
     color: #333;
     position-try-options : initial;
 }
+.font {
+    color: #333;
+    font-size: 1;
+}
 footer {
     text-align: center;
     padding: 10px;
