@@ -12,10 +12,11 @@ header {
 }
 nav {
     margin: 20px 0;
+    color: #ffffff;
 }
 nav a {
     margin: 0 15px;
-    color: #4CAF50;
+    color: #ffffff;
     text-decoration: none;
 }
 .container {
@@ -32,6 +33,10 @@ nav a {
 }
 .post h2 {
     color: #333;
+}
+.Contacto {
+    color: #333;
+    position-try-options : initial;
 }
 footer {
     text-align: center;
